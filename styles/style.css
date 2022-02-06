@@ -5,6 +5,9 @@
 body {
   font-family: monospace;
   font-size: 14px;
+  background-color: rgb(53, 22, 71);
+  margin: 0 auto;
+  overflow: scroll;
 }
 
 main {
@@ -44,9 +47,8 @@ main {
 }
 
 .main_wrap {
-  background-color: rgb(12, 38, 56);
   max-width: 1200px;
-  padding: 100px 10px;
+  padding: 50px 10px;
   margin: 0 auto;
 }
 
