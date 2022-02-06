@@ -19,9 +19,9 @@
   .tv_line {
     width: 70%;
     height: 100px;
+    margin: 0 auto;
   } 
   .seats_input {
-    /* width: 600px; */
     width: 15px;
     height: 15px;
     border-radius: 5px;
@@ -43,10 +43,4 @@
   .film_name {
     font-size: 25px;
   }
-}
-
-@media only screen and (max-width: 480px) {
-  /* .name_of_film {
-    font-size: 35px;
-  } */
 }
